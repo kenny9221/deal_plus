@@ -5,5 +5,15 @@
     <meta charset="utf-8"/>
 	 <script src="" ></script>
   </head>
-  <body></body>
+  <body>
+    <head>
+	   <nav> 
+	    <ul>
+		 <li><a href=#>accueil</a></li>
+		 <li></li>
+		 <li></li>
+		</ul>
+	   </nav>
+	</head>
+  </body>
  </html>
